@@ -7,6 +7,7 @@ if (a) {
 } else {
     if (b == "thirsty"){
         console.log ("drink water");
+        console.log ("drink soda");
     }
     console.log("do your homework");
 }

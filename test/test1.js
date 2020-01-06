@@ -1,6 +1,6 @@
 var a  = "true";
 if (a) {
-    console.log("you are hungry");
+    console.log("Eat Samosa");
 } else {
     console.log("do your homework");
 }

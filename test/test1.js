@@ -1,5 +1,6 @@
 var a  = "true";
 var b = "thirsty"
+console.log(this is coflict Demo)
 if (a) {
     console.log("Eat Samosa");
     console.log("Eat Pizza");
